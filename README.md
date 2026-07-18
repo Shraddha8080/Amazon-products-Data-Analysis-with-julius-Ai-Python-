@@ -14,9 +14,9 @@ This project delivers a comprehensive end-to-end data analysis of a large-scale 
 ---
 
 ## 🛠️ Tech Stack & Libraries
-- **Language:** Python
+- **Language:** Python, Javascript, Jason
 - **Data Manipulation:** Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn
+- **Data Visualization:** Matplotlib, Seaborn, Claude Ai
 - **Environment:** Jupyter Notebook / Julius AI Environment
 
 ---
