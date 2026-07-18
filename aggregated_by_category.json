@@ -1,0 +1,240 @@
+[
+  {
+    "category": "Accessories (Bags, Hats, Belts)",
+    "totalProducts": 2901,
+    "avgPrice": 494.39,
+    "totalStock": 1444399,
+    "potentialRevenue": 714096421.61
+  },
+  {
+    "category": "Automotive",
+    "totalProducts": 3026,
+    "avgPrice": 497.29,
+    "totalStock": 1506770,
+    "potentialRevenue": 749301653.3
+  },
+  {
+    "category": "Beauty & Personal Care",
+    "totalProducts": 2977,
+    "avgPrice": 506.34,
+    "totalStock": 1484393,
+    "potentialRevenue": 751607551.62
+  },
+  {
+    "category": "Bedding & Bath",
+    "totalProducts": 2971,
+    "avgPrice": 497.0,
+    "totalStock": 1492378,
+    "potentialRevenue": 741711866.0
+  },
+  {
+    "category": "Books & Stationery",
+    "totalProducts": 3034,
+    "avgPrice": 501.76,
+    "totalStock": 1516299,
+    "potentialRevenue": 760818186.24
+  },
+  {
+    "category": "Cameras & Accessories",
+    "totalProducts": 2902,
+    "avgPrice": 508.96,
+    "totalStock": 1469864,
+    "potentialRevenue": 748101981.44
+  },
+  {
+    "category": "Camping & Hiking",
+    "totalProducts": 2979,
+    "avgPrice": 499.5,
+    "totalStock": 1487415,
+    "potentialRevenue": 742963792.5
+  },
+  {
+    "category": "Cleaning Supplies",
+    "totalProducts": 2847,
+    "avgPrice": 510.69,
+    "totalStock": 1457633,
+    "potentialRevenue": 744398596.77
+  },
+  {
+    "category": "Clothing & Apparel",
+    "totalProducts": 2901,
+    "avgPrice": 494.9,
+    "totalStock": 1470429,
+    "potentialRevenue": 727715312.1
+  },
+  {
+    "category": "Cycling",
+    "totalProducts": 2910,
+    "avgPrice": 505.57,
+    "totalStock": 1448417,
+    "potentialRevenue": 732276182.69
+  },
+  {
+    "category": "Fishing & Hunting",
+    "totalProducts": 2941,
+    "avgPrice": 493.92,
+    "totalStock": 1474780,
+    "potentialRevenue": 728423337.6
+  },
+  {
+    "category": "Fitness Equipment",
+    "totalProducts": 2951,
+    "avgPrice": 500.13,
+    "totalStock": 1472396,
+    "potentialRevenue": 736389411.48
+  },
+  {
+    "category": "Fragrances",
+    "totalProducts": 2972,
+    "avgPrice": 503.41,
+    "totalStock": 1481354,
+    "potentialRevenue": 745728417.14
+  },
+  {
+    "category": "Furniture",
+    "totalProducts": 2862,
+    "avgPrice": 497.83,
+    "totalStock": 1441146,
+    "potentialRevenue": 717445713.18
+  },
+  {
+    "category": "Grooming Tools",
+    "totalProducts": 3018,
+    "avgPrice": 502.86,
+    "totalStock": 1514774,
+    "potentialRevenue": 761719253.64
+  },
+  {
+    "category": "Haircare",
+    "totalProducts": 2951,
+    "avgPrice": 494.85,
+    "totalStock": 1486223,
+    "potentialRevenue": 735457451.55
+  },
+  {
+    "category": "Headphones & Earbuds",
+    "totalProducts": 2896,
+    "avgPrice": 502.37,
+    "totalStock": 1445613,
+    "potentialRevenue": 726232602.81
+  },
+  {
+    "category": "Health & Wellness",
+    "totalProducts": 2911,
+    "avgPrice": 509.53,
+    "totalStock": 1482398,
+    "potentialRevenue": 755326252.94
+  },
+  {
+    "category": "Home & Kitchen",
+    "totalProducts": 2920,
+    "avgPrice": 501.74,
+    "totalStock": 1454275,
+    "potentialRevenue": 729667938.5
+  },
+  {
+    "category": "Home Decor",
+    "totalProducts": 2969,
+    "avgPrice": 498.22,
+    "totalStock": 1508842,
+    "potentialRevenue": 751735261.24
+  },
+  {
+    "category": "Kids' Clothing",
+    "totalProducts": 2923,
+    "avgPrice": 511.66,
+    "totalStock": 1500373,
+    "potentialRevenue": 767680849.18
+  },
+  {
+    "category": "Kitchen Appliances",
+    "totalProducts": 2934,
+    "avgPrice": 499.94,
+    "totalStock": 1466619,
+    "potentialRevenue": 733221502.86
+  },
+  {
+    "category": "Laptops & Computers",
+    "totalProducts": 2867,
+    "avgPrice": 502.28,
+    "totalStock": 1442311,
+    "potentialRevenue": 724443969.08
+  },
+  {
+    "category": "Makeup",
+    "totalProducts": 2942,
+    "avgPrice": 493.78,
+    "totalStock": 1484602,
+    "potentialRevenue": 733066775.56
+  },
+  {
+    "category": "Men's Clothing",
+    "totalProducts": 2927,
+    "avgPrice": 498.22,
+    "totalStock": 1448012,
+    "potentialRevenue": 721428538.64
+  },
+  {
+    "category": "Office Supplies",
+    "totalProducts": 2935,
+    "avgPrice": 494.62,
+    "totalStock": 1477464,
+    "potentialRevenue": 730783243.68
+  },
+  {
+    "category": "Shoes & Footwear",
+    "totalProducts": 2915,
+    "avgPrice": 503.14,
+    "totalStock": 1478375,
+    "potentialRevenue": 743829597.5
+  },
+  {
+    "category": "Skincare",
+    "totalProducts": 3019,
+    "avgPrice": 500.97,
+    "totalStock": 1488173,
+    "potentialRevenue": 745530027.81
+  },
+  {
+    "category": "Smartphones",
+    "totalProducts": 2887,
+    "avgPrice": 503.62,
+    "totalStock": 1435043,
+    "potentialRevenue": 722716355.66
+  },
+  {
+    "category": "Smartwatches",
+    "totalProducts": 2968,
+    "avgPrice": 496.18,
+    "totalStock": 1498524,
+    "potentialRevenue": 743537638.32
+  },
+  {
+    "category": "Sports & Outdoors",
+    "totalProducts": 2980,
+    "avgPrice": 499.49,
+    "totalStock": 1499032,
+    "potentialRevenue": 748751493.68
+  },
+  {
+    "category": "Team Sports",
+    "totalProducts": 2943,
+    "avgPrice": 494.31,
+    "totalStock": 1471961,
+    "potentialRevenue": 727605041.91
+  },
+  {
+    "category": "Toys & Games",
+    "totalProducts": 2887,
+    "avgPrice": 497.86,
+    "totalStock": 1459642,
+    "potentialRevenue": 726697366.12
+  },
+  {
+    "category": "Women's Clothing",
+    "totalProducts": 3034,
+    "avgPrice": 503.49,
+    "totalStock": 1505469,
+    "potentialRevenue": 757988586.81
+  }
+]
